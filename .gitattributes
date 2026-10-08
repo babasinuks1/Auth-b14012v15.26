@@ -1,0 +1,5 @@
+# The detached signature covers the exact bytes of manifest.json. Never let git
+# rewrite line endings on these, or the signature breaks and clients reject it.
+manifest.json      -text
+manifest.json.sig  -text
+public_key.bin     -text binary
