@@ -1,20 +1,53 @@
 {
-  "version": 1,
-  "generated_at": 1791486072,
+  "version": 2,
+  "generated_at": 1792854899,
   "keys": [
     {
-      "key": "multi-26KG-W9M9-237U-B9EM",
+      "id": "f211ec073bdfed9e3eab38507a545bf93b92e7b92498a3ac4f0a36c1da4f1f48",
       "plan": "monthly",
       "expires_at": 1794073320,
-      "revoked": false,
-      "issued_at": 1791481320
+      "revoked": true,
+      "lock": false,
+      "max_devices": 1,
+      "devices": []
     },
     {
-      "key": "multi-Y4MG-W35K-X6G2-QP2D",
+      "id": "5889d1bd73e2b8761739a59b3eca1ef442e97bda1055e19fd0dfc461170c928f",
       "plan": "default",
       "expires_at": 0,
+      "revoked": true,
+      "lock": false,
+      "max_devices": 1,
+      "devices": []
+    },
+    {
+      "id": "915d7ebe0dbe43d32cb4b66b20f4b0af4a09a5558a18e186e24d96ab3b4554df",
+      "plan": "monthly",
+      "expires_at": 1794058953,
       "revoked": false,
-      "issued_at": 1791486072
+      "lock": true,
+      "max_devices": 1,
+      "devices": []
+    },
+    {
+      "id": "829d0da7a127986ee4f9f488fc552f4976b383d6afb97caf3c3964253a2a4da1",
+      "plan": "lifetime",
+      "expires_at": 0,
+      "revoked": false,
+      "lock": true,
+      "max_devices": 1,
+      "devices": [
+        "56ea1b6417685ff257626302749a0d4dad81302ad49dcc1c8f0786c4113108e0"
+      ]
+    },
+    {
+      "id": "9124a2ce65565366cc100851c79c16ca21f9359c5859e6a64ef3be52e99b81c9",
+      "plan": "default",
+      "expires_at": 1793286899,
+      "revoked": false,
+      "lock": true,
+      "max_devices": 1,
+      "devices": []
     }
   ]
 }
