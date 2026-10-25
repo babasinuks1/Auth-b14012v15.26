@@ -1,3 +1,4 @@
 signing_key.bin
 rageauth.config.json
 keys_issued.csv
+licenses.private.json
