@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1794165426,
+  "generated_at": 1794165525,
   "keys": [
     {
       "id": "f211ec073bdfed9e3eab38507a545bf93b92e7b92498a3ac4f0a36c1da4f1f48",
@@ -54,7 +54,9 @@
       "revoked": false,
       "lock": true,
       "max_devices": 1,
-      "devices": []
+      "devices": [
+        "079882a21171ce9d7baeeb84595261ef1d74cf400f430118b16fe6b9f20738b5"
+      ]
     }
   ]
 }
