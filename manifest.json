@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1793036521,
+  "generated_at": 1794165185,
   "keys": [
     {
       "id": "f211ec073bdfed9e3eab38507a545bf93b92e7b92498a3ac4f0a36c1da4f1f48",
@@ -15,7 +15,7 @@
       "id": "5889d1bd73e2b8761739a59b3eca1ef442e97bda1055e19fd0dfc461170c928f",
       "plan": "default",
       "expires_at": 0,
-      "revoked": true,
+      "revoked": false,
       "lock": false,
       "max_devices": 1,
       "devices": []
